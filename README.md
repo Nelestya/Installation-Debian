@@ -1,2 +1,5 @@
 # Installation-Debian
-List command Bash
+Commande list for install 
+- python-pip
+- glade
+- django 
